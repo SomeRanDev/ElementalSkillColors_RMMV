@@ -1,0 +1,14 @@
+{
+  "name": "Elemental Skill Colors - RPG Maker MV",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Robert Borghese",
+  "license": "GNU Lesser General Public License v3.0",
+  "dependencies": {
+    "nan": "^2.10.0",
+    "node-gyp": "^3.6.2"
+  },
+  "engines": {
+    "node": "1.2.0"
+  }
+}

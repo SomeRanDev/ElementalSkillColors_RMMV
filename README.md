@@ -8,7 +8,7 @@ How to compile
 
  - Step (0):
 
-Make sure you have Visual Studio and Python 2.7 installed onto your system. 
+Make sure you have NodeJS/NPM, Visual Studio, Python 2.7 installed onto your system. 
 
  - Step (1) (in a terminal/console window thingy):
 

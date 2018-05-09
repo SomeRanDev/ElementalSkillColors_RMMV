@@ -17,3 +17,12 @@ Step (2):
 Step (3):
 
 `"./node_modules/.bin/node-gyp" build`
+
+---
+
+Notes
+---
+
+If using RPG Maker MV v1.6.0 or above, the version of NodeJS will be different. You can check a project's version of NodeJS by evaluating `process.versions.node` somewhere within the game (for example, the NWJS console).
+
+Once you know the desired NodeJS version, replace "1.2.0" within Step (2) with your own NodeJS version.

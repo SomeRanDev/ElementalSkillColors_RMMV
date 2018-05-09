@@ -242,7 +242,7 @@
  */
 
 if(Utils.isNwjs()) {
-	console.log(require("./js/native-plugins/SRD_ElementalSkillColors").applyPlugin());
+	require("./js/native-plugins/SRD_ElementalSkillColors").applyPlugin();
 } else {
 	console.error("SRD_ElementalSkillColors.js can only be used within NodeJS enviroments (Desktop exports only).");
 }

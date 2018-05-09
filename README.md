@@ -6,19 +6,19 @@ An RPG Maker MV plugin developed purely with C++ with the use of node-gyp.
 How to compile
 ---
 
-Step (0):
+ - Step (0):
 
 Make sure you have Visual Studio and Python 2.7 installed onto your system. 
 
-Step (1) (in a terminal/console window thingy):
+ - Step (1) (in a terminal/console window thingy):
 
 `cd [directory of project] && npm install`
 
-Step (2):
+ - Step (2):
 
 `"./node_modules/.bin/node-gyp" configure --target=v1.2.0 --arch=ia32`
 
-Step (3):
+ - Step (3):
 
 `"./node_modules/.bin/node-gyp" build`
 
